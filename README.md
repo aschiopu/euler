@@ -1,0 +1,1 @@
+Solutions as I work throught the euler problems.
